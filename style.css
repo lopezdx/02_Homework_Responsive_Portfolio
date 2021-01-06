@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(233, 233, 233);
+
+
+}
+
+.h1 {
+    color: #4ca1a6
+}
+
+#navbar-brand {
+    color: #4ca1a6
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
